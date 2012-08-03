@@ -1,4 +1,4 @@
 BlackScholesTasteTest
 =====================
 
-Black Scholes Taste Test from the same names blog post
+Black Scholes Taste Test from the same named blog post.
